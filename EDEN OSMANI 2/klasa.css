@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    background-image: url('ocean underworld.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    color: white;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C1E8FF ;
+    color: white;
+}
+nav li{
+    float: right;
+}
+nav li a{
+    display: inline-table;
+    color: #052659;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: #7DA0CA;
+    color: black;
+}
+img{
+    width: 12px;
+}
